@@ -1,0 +1,5 @@
+{
+  "name": "TeamSync HR Tool",
+  "description": "An essential HR utility for team management. Features include a lucky draw system for events and an automated team grouping tool with visualization, accepting inputs via CSV or direct text.",
+  "requestFramePermissions": []
+}
